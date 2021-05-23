@@ -1,0 +1,12 @@
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/30A_c.jpg
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/31A_c.jpg
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/32A_c.jpg
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/33A_c.jpg
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/34A_c.jpg
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/35A_c.jpg
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/45A_c.jpg
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/46A_c.jpg
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/47A_c.jpg
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/48A_c.jpg
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/49A_c.jpg
+/home/wenjie/darknet/scripts/VOCdevkit/Maturity/JPEGImages/val/50A_c.jpg
