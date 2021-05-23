@@ -10,12 +10,11 @@
 download: bash data/scripts/get_voc.sh
 
 # train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
-train: ../Mydata/images/train/  # 16551 images
-val: ../Mydata/images/val/  # 4952 images
+train: ../Mydata/Maturity/images/train/  # 16551 images
+val: ../Mydata/Maturity/images/val/  # 4952 images
 
 # number of classes
-nc: 20
+nc: 1
 
 # class names
-names: [ 'aeroplane', 'bicycle', 'bird', 'boat', 'bottle', 'bus', 'car', 'cat', 'chair', 'cow', 'diningtable', 'dog',
-         'horse', 'motorbike', 'person', 'pottedplant', 'sheep', 'sofa', 'train', 'tvmonitor' ]
+names: [ 'tomato']
